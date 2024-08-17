@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+src/Sales_Data_Analysis.egg-info/PKG-INFO
+src/Sales_Data_Analysis.egg-info/SOURCES.txt
+src/Sales_Data_Analysis.egg-info/dependency_links.txt
+src/Sales_Data_Analysis.egg-info/entry_points.txt
+src/Sales_Data_Analysis.egg-info/requires.txt
+src/Sales_Data_Analysis.egg-info/top_level.txt
+tests/test_sales_data.py

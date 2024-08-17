@@ -1,0 +1,2 @@
+[console_scripts]
+Sales_Data_Analysis = src.main:main
