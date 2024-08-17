@@ -24,13 +24,13 @@ This project performs sales data analysis and generates reports based on sales c
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/Falguni-Vandra/Sales_Data_Analysis.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd your-repo-name
+    cd Sales_Data_Analysis
     ```
 
 3. Create and activate a virtual environment:
@@ -99,10 +99,6 @@ Contributions are welcome! Please follow these steps to contribute:
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature/new-feature`).
 5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
